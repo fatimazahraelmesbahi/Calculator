@@ -51,9 +51,9 @@ namespace Calculator
             // 
             // btn1
             // 
-            this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn1.Location = new System.Drawing.Point(23, 171);
+            this.btn1.Location = new System.Drawing.Point(23, 93);
             this.btn1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(93, 52);
@@ -64,9 +64,9 @@ namespace Calculator
             // 
             // btn2
             // 
-            this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn2.Location = new System.Drawing.Point(122, 171);
+            this.btn2.Location = new System.Drawing.Point(122, 93);
             this.btn2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(92, 52);
@@ -77,9 +77,9 @@ namespace Calculator
             // 
             // btn3
             // 
-            this.btn3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn3.Location = new System.Drawing.Point(220, 171);
+            this.btn3.Location = new System.Drawing.Point(220, 93);
             this.btn3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(96, 52);
@@ -90,9 +90,9 @@ namespace Calculator
             // 
             // btn4
             // 
-            this.btn4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn4.Location = new System.Drawing.Point(23, 264);
+            this.btn4.Location = new System.Drawing.Point(23, 174);
             this.btn4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(93, 50);
@@ -103,9 +103,9 @@ namespace Calculator
             // 
             // btn5
             // 
-            this.btn5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn5.Location = new System.Drawing.Point(122, 264);
+            this.btn5.Location = new System.Drawing.Point(122, 174);
             this.btn5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(92, 50);
@@ -116,9 +116,9 @@ namespace Calculator
             // 
             // btn6
             // 
-            this.btn6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn6.Location = new System.Drawing.Point(220, 264);
+            this.btn6.Location = new System.Drawing.Point(220, 174);
             this.btn6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(96, 50);
@@ -129,9 +129,9 @@ namespace Calculator
             // 
             // btn7
             // 
-            this.btn7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn7.Location = new System.Drawing.Point(23, 356);
+            this.btn7.Location = new System.Drawing.Point(23, 250);
             this.btn7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(93, 48);
@@ -142,9 +142,9 @@ namespace Calculator
             // 
             // btn8
             // 
-            this.btn8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn8.Location = new System.Drawing.Point(122, 356);
+            this.btn8.Location = new System.Drawing.Point(122, 250);
             this.btn8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(92, 48);
@@ -155,9 +155,9 @@ namespace Calculator
             // 
             // btn9
             // 
-            this.btn9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn9.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn9.Location = new System.Drawing.Point(220, 356);
+            this.btn9.Location = new System.Drawing.Point(220, 250);
             this.btn9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(96, 48);
@@ -168,9 +168,9 @@ namespace Calculator
             // 
             // btn0
             // 
-            this.btn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn0.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn0.Location = new System.Drawing.Point(23, 453);
+            this.btn0.Location = new System.Drawing.Point(23, 325);
             this.btn0.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(93, 47);
@@ -184,7 +184,7 @@ namespace Calculator
             this.btn_plus.BackColor = System.Drawing.Color.Azure;
             this.btn_plus.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_plus.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_plus.Location = new System.Drawing.Point(322, 264);
+            this.btn_plus.Location = new System.Drawing.Point(322, 174);
             this.btn_plus.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_plus.Name = "btn_plus";
             this.btn_plus.Size = new System.Drawing.Size(68, 50);
@@ -198,7 +198,7 @@ namespace Calculator
             this.btn_moins.BackColor = System.Drawing.Color.Azure;
             this.btn_moins.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_moins.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_moins.Location = new System.Drawing.Point(322, 356);
+            this.btn_moins.Location = new System.Drawing.Point(322, 250);
             this.btn_moins.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_moins.Name = "btn_moins";
             this.btn_moins.Size = new System.Drawing.Size(68, 48);
@@ -212,7 +212,7 @@ namespace Calculator
             this.btn_egal.BackColor = System.Drawing.Color.Lime;
             this.btn_egal.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_egal.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_egal.Location = new System.Drawing.Point(322, 508);
+            this.btn_egal.Location = new System.Drawing.Point(322, 398);
             this.btn_egal.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_egal.Name = "btn_egal";
             this.btn_egal.Size = new System.Drawing.Size(68, 43);
@@ -229,19 +229,19 @@ namespace Calculator
             this.label1.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(23, 95);
+            this.label1.Location = new System.Drawing.Point(23, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(367, 52);
+            this.label1.Size = new System.Drawing.Size(367, 39);
             this.label1.TabIndex = 13;
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btn_supp
             // 
-            this.btn_supp.BackColor = System.Drawing.Color.Red;
+            this.btn_supp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn_supp.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_supp.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_supp.Location = new System.Drawing.Point(220, 453);
+            this.btn_supp.Location = new System.Drawing.Point(220, 324);
             this.btn_supp.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_supp.Name = "btn_supp";
             this.btn_supp.Size = new System.Drawing.Size(96, 47);
@@ -252,10 +252,10 @@ namespace Calculator
             // 
             // btn_point
             // 
-            this.btn_point.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn_point.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btn_point.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_point.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_point.Location = new System.Drawing.Point(122, 452);
+            this.btn_point.Location = new System.Drawing.Point(122, 323);
             this.btn_point.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_point.Name = "btn_point";
             this.btn_point.Size = new System.Drawing.Size(92, 48);
@@ -269,7 +269,7 @@ namespace Calculator
             this.btn_division.BackColor = System.Drawing.Color.Azure;
             this.btn_division.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_division.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_division.Location = new System.Drawing.Point(322, 171);
+            this.btn_division.Location = new System.Drawing.Point(322, 93);
             this.btn_division.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_division.Name = "btn_division";
             this.btn_division.Size = new System.Drawing.Size(68, 52);
@@ -283,7 +283,7 @@ namespace Calculator
             this.btn_fois.BackColor = System.Drawing.Color.Azure;
             this.btn_fois.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_fois.ForeColor = System.Drawing.Color.DimGray;
-            this.btn_fois.Location = new System.Drawing.Point(322, 452);
+            this.btn_fois.Location = new System.Drawing.Point(322, 324);
             this.btn_fois.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_fois.Name = "btn_fois";
             this.btn_fois.Size = new System.Drawing.Size(68, 48);
@@ -296,9 +296,9 @@ namespace Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.BackColor = System.Drawing.Color.DimGray;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(606, 553);
+            this.ClientSize = new System.Drawing.Size(454, 540);
             this.Controls.Add(this.btn_fois);
             this.Controls.Add(this.btn_division);
             this.Controls.Add(this.btn_point);
@@ -321,6 +321,7 @@ namespace Calculator
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Calculator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
