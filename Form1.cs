@@ -15,17 +15,17 @@ namespace Calculator
 
 		private double Result { get; set; } = 0;
 
-		private void button1_Click(object sender, EventArgs e) => AddTextToLabel(button1);
-		private void button2_Click(object sender, EventArgs e) => AddTextToLabel(button2);
-		private void button3_Click(object sender, EventArgs e) => AddTextToLabel(button3);
-		private void button4_Click(object sender, EventArgs e) => AddTextToLabel(button4);
-		private void button5_Click(object sender, EventArgs e) => AddTextToLabel(button5);
-		private void button6_Click(object sender, EventArgs e) => AddTextToLabel(button6);
-		private void button7_Click(object sender, EventArgs e) => AddTextToLabel(button7);
-		private void button8_Click(object sender, EventArgs e) => AddTextToLabel(button8);
-		private void button9_Click(object sender, EventArgs e) => AddTextToLabel(button9);
-		private void button10_Click(object sender, EventArgs e) => AddTextToLabel(button10);
-		private void button15_Click(object sender, EventArgs e) => AddTextToLabel(button15);
+		private void button1_Click(object sender, EventArgs e) => AddTextToLabel(btn1);
+		private void button2_Click(object sender, EventArgs e) => AddTextToLabel(btn2);
+		private void button3_Click(object sender, EventArgs e) => AddTextToLabel(btn3);
+		private void button4_Click(object sender, EventArgs e) => AddTextToLabel(btn4);
+		private void button5_Click(object sender, EventArgs e) => AddTextToLabel(btn5);
+		private void button6_Click(object sender, EventArgs e) => AddTextToLabel(btn6);
+		private void button7_Click(object sender, EventArgs e) => AddTextToLabel(btn7);
+		private void button8_Click(object sender, EventArgs e) => AddTextToLabel(btn8);
+		private void button9_Click(object sender, EventArgs e) => AddTextToLabel(btn9);
+		private void button10_Click(object sender, EventArgs e) => AddTextToLabel(btn0);
+		private void button15_Click(object sender, EventArgs e) => AddTextToLabel(btn_point);
 
 		private void AddTextToLabel(Button button) => label1.Text += button.Text;
 
@@ -87,6 +87,9 @@ namespace Calculator
 			SecondNumber = 0;
 		}
 
-		
+		private void label1_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
